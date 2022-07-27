@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantasai07&label=Profile%20views&color=0e75b6&style=flat" alt="manikantasai07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikantasai07" alt="manikantasai07" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikantasai07" alt="manikantasai07" /></a> </p>
+ -->
 - 📫 How to reach me **manikanta.sai11228@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
